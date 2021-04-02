@@ -4,6 +4,7 @@ theme: jekyll-theme-architect
 title: Website of Samantha Sword-Fehlberg
 description: Ph.D. Researcher 
 locale: en_US
+timezone: America/New_York
 
 #Some Specifiers
 owner:
