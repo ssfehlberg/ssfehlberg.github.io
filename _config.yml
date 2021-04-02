@@ -18,6 +18,22 @@ author:
   orcid: "0000-0001-8557-8132"
   researchgate: "Samantha Sword-Fehlberg"
   
+# Collections
+collections:
+  cv:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  guide:
+    output: true
+    permalink: /:collection/:path/
+ 
+#directories to be included 
 include:
   -pages
   -posts
