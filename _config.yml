@@ -18,3 +18,8 @@ author:
   orcid: "0000-0001-8557-8132"
   researchgate: "Samantha Sword-Fehlberg"
   
+include:
+  -pages
+  -posts
+  -images
+  
