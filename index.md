@@ -1,17 +1,3 @@
-main:
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Talks"
-    url: /talks/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Guide"
-    url: /markdown/
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ssfehlberg/ssfehlberg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
