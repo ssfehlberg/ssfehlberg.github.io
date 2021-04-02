@@ -1,19 +1,4 @@
 
-#Some Specifiers
-owner:
-  name: Samantha Sword-Fehlberg
-  avatar: bio-photo.jpg
-  bio: "Ph.D. Candidate (Nuclear Physics) from New Mexico State University seeking to change the world for the better using science and effective science communication."
-  email: ssfehlberg@gmail.com
-  linkedin: Samantha Sword-Fehlberg
-  github: ssfehlberg
-  orcid: 0000-0001-8557-8132
-  researchgate: Samantha Sword-Fehlberg
-
-
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ssfehlberg/ssfehlberg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.

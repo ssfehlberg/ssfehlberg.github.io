@@ -1,13 +1,14 @@
 #Stie Wide configuration
 
 theme: jekyll-theme-architect
-title: Website of Samantha Sword-Fehlberg
-description: Ph.D. Researcher 
+title: Samantha Sword-Fehlberg, M.S.
+description: Ph.D. Candidate (Nuclear Physics) from New Mexico State University seeking to change the world for the better using science and effective science communication.
 locale: en_US
 timezone: America/New_York
 
+
 #Some Specifiers
-owner:
+author:
   name: Samantha Sword-Fehlberg
   avatar: bio-photo.jpg
   bio: "Ph.D. Candidate (Nuclear Physics) from New Mexico State University seeking to change the world for the better using science and effective science communication."
