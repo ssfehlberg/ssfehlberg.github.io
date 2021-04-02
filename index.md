@@ -1,3 +1,16 @@
+main:
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Guide"
+    url: /markdown/
 
 ## Welcome to GitHub Pages
 
