@@ -8,7 +8,8 @@ locale: en_US
 #Some Specifiers
 owner:
   name: Samantha Sword-Fehlberg
-  #avatar: bio-photo.jpg
+  avatar: bio-photo.jpg
+  bio: "sample website"
   email: ssfehlberg@gmail.com
   linkedin: Samantha Sword-Fehlberg
   github: ssfehlberg
