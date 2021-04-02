@@ -9,12 +9,12 @@ timezone: America/New_York
 
 #Some Specifiers
 author:
-  name: Samantha Sword-Fehlberg
-  avatar: bio-photo.jpg
+  name: "Samantha Sword-Fehlberg"
+  avatar: "bio-photo.jpg"
   bio: "Ph.D. Candidate (Nuclear Physics) from New Mexico State University seeking to change the world for the better using science and effective science communication."
-  email: ssfehlberg@gmail.com
-  linkedin: Samantha Sword-Fehlberg
-  github: ssfehlberg
-  orcid: 0000-0001-8557-8132
-  researchgate: Samantha Sword-Fehlberg
+  email: 'ssfehlberg@gmail.com"
+  linkedin: "Samantha Sword-Fehlberg"
+  github: "ssfehlberg"
+  orcid: "0000-0001-8557-8132"
+  researchgate: "Samantha Sword-Fehlberg"
   
